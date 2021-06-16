@@ -1,22 +1,22 @@
-At times we need to fetch some data📈 from our GitHub like details about the pull requests🩹 to some of our repositories in an open source🤝 program.
+At times we need to fetch some data from our GitHub like details about the pull requests to some of our repositories in an open source program.
 
-Larger the data, the more cumbersome😪 it becomes to fetch, analyze and derive the desired inference
+Larger the data, the more cumbersome it becomes to fetch, analyze and derive the desired inference
 
-What if we could automate🤖 it?
+What if we could automate it?
 
-Well, using a simple python🐍 script with a GraphQL⚛ query can save the day for us!
+Well, using a simple python script with a GraphQL⚛ query can save the day for us!
 
-- I assume you have Anaconda installed in your operating system and set to path. If not, please visit this [link](https://docs.anaconda.com/anaconda/install/) and do it
+- Have Anaconda installed in your operating system and set to path.
 
-- Clone or download this repository ⏬
+- Clone or download this repository
 
-- Open the Terminal 🐱‍💻
+- Open the Terminal
 
-- Move inside 👉 the your cloned copy of the repo
+- Move inside the your cloned copy of the repo
 
 `cd GitKundli`
 
-- Now make sure you have all the dependencies🧱
+- Now make sure you have all the dependencies
 
 `pip install -r requirements.txt`
 
